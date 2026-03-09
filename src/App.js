@@ -140,7 +140,8 @@ const styles = {
   height: 'auto', 
   marginBottom: '10px',
   cursor: 'pointer', // Fare ile üzerine gelince el işareti çıkar
-  transition: 'opacity 0.2s', // Hafif bir geçiş efekti
+  transition: 'opacity 0.2s', 
+  borderRadius: '10px'
 },
   starScore: { 
     position: 'absolute', top: '10px', right: '10px', 
